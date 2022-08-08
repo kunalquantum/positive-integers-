@@ -1,0 +1,11 @@
+
+
+
+listk= [11, -21, 0, 45, 66, -93,89,-78,90,-65,78]
+
+# iterating each number in list
+for num in listk:
+	
+	
+	if num >= 0:
+	print(num, end = " ")
